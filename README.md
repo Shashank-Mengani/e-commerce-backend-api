@@ -21,7 +21,7 @@ A simple and scalable backend API for an e-commerce application built with Node.
 **Tech Stack:**
 - Node.js
 - Express.js
-- MongoDB :contentReference[oaicite:0]{index=0}
+- MongoDB
 - Mongoose
 - JWT Authentication
 - dotenv

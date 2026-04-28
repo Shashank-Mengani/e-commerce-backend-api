@@ -28,6 +28,6 @@ app.get("/api/data", (req, res) => {
 });
 
 app.listen(PORT, () => {
-    console.log(`server is running at http://localhost:${PORT}`);
+    console.log(`server is running at on ${PORT}`);
     connectDB();
 });

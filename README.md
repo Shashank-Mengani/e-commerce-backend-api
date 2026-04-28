@@ -32,7 +32,7 @@ A simple and scalable backend API for an e-commerce application built with Node.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/e-commerce-backend-api.git
+git clone https://github.com/Shashank-Mengani/e-commerce-backend-api.git
 
 # 2. Move into project folder
 cd e-commerce-backend-api

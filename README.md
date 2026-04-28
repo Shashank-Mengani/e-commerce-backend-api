@@ -39,3 +39,6 @@ cd e-commerce-backend-api
 
 # 3. Install dependencies
 npm install
+
+# 4. Run Servr
+npm run dev
